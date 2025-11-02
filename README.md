@@ -10,7 +10,7 @@ It is a practice project I learnt from FreeCodeCamp which validate user input, p
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
----
 
+---
 ### Author 
 Sabita Adhikari
