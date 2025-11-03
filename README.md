@@ -14,4 +14,5 @@ It is a practice project I learnt from FreeCodeCamp which validate user input, p
 ---
 ### Author 
 Sabita Adhikari
+<br>
 [LinkedIn](https://www.linkedin.com/in/sabita-adhikari-927665362/)
